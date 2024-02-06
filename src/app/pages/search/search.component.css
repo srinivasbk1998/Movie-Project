@@ -1,0 +1,22 @@
+button{
+    background-color: #e50914;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    margin-left: 70rem;
+    position: absolute;
+    top:97px;
+    height: 39px;
+}
+button:hover
+{
+    background-color: #e50914;
+    color: #ffffff;
+}
+img{
+    width: 100%;
+    cursor: pointer;
+}
+h5{
+    color: #ffffff;
+}
